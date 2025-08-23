@@ -1,4 +1,5 @@
-# project1wajm
+# project1
+
 Combat Injury Visual Descriptor
 
 Combat Injury Visual Descriptor (CIVD) is a deep learning-based system that generates descriptive medical reports from images of battlefield injuries. The goal is to support combat medics by providing fast, accurate, and structured injury descriptions in high-stress field conditions.
